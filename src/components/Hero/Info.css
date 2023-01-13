@@ -1,0 +1,39 @@
+.main {
+  height: 431px;
+  width: 550px;
+}
+.main-switch {
+  display: flex;
+  background-color: rgba(236, 234, 245, 1);
+  border-radius: 60px;
+  width: 430px;
+  justify-content: space-between;
+  margin-bottom: 50px;
+
+  font-size: 14px;
+}
+.switch-p1 {
+  color: white;
+  background-color: rgba(119, 122, 242, 1);
+  border-radius: 60px;
+  padding: 5px;
+}
+.switch-p2 {
+  color: rgba(119, 122, 242, 1);
+
+  border-radius: 60px;
+  padding: 5px;
+}
+.main-h1 {
+  font-size: 48px;
+  margin-bottom: 34px;
+  color: #39374d;
+}
+.main-welcome {
+  color: #455880;
+  font-size: 22px;
+  margin-bottom: 65px;
+}
+.color {
+  color: black;
+}

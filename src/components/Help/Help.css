@@ -1,0 +1,26 @@
+.help {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 1px #e6e3e9;
+  align-items: center;
+}
+.contact-us-bars-right {
+  border-right: solid 1px #e6e3e9;
+}
+.contact-us-bars-left {
+  border-left: solid 1px #e6e3e9;
+}
+.social-media-icon {
+  width: 15px;
+  height: 15px;
+}
+.help a {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 2px;
+  font-size: 12px;
+}
+.contact-us-number {
+  color: #777af2;
+}
